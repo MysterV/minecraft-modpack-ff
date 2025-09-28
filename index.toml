@@ -9,6 +9,22 @@ file = "config/betterf3.json"
 hash = "21f56bfb3b6c06b641c0d3ab655080e41a305e615e833ce21ae3b4450f769710"
 
 [[files]]
+file = "config/blur.json"
+hash = "cbd8f0e2118eee3f48a752631fdef505d48652869b6271c32ba586750888b699"
+
+[[files]]
+file = "config/clienttweaks-common.toml"
+hash = "2ab2bb05a40eff7174bffc9f80347dae3ce99a4516a2a5ebef23e99eebd5ed30"
+
+[[files]]
+file = "config/zoomify.json"
+hash = "bcc9ddaecb87bbf7a14a51398de3d662056f6e4765dfb83d3cb41d7e349c8ea4"
+
+[[files]]
+file = "icon.png"
+hash = "f322c9cec8eeb641dd2b2f9873c8523bce37f4671072ff375f609423335a70bb"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7cfd3485931eb237e346fbda606b4b28663e9d3b3efa56d37c69355681f0a1d8"
 metafile = true
@@ -162,3 +178,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VT Transparent UI.zip"
+hash = "d64f4cf889427ef50bb73c105ca41e198512aaa2b1259507c154ef46200bca58"
