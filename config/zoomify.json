@@ -12,7 +12,7 @@
   "scrollZoomSmoothness": 70,
   "zoomKeyBehaviour": "hold",
   "_keybindScrolling": false,
-  "relativeSensitivity": 100,
+  "relativeSensitivity": 150,
   "relativeViewBobbing": true,
   "cinematicCamera": 0,
   "spyglassBehaviour": "combine",
