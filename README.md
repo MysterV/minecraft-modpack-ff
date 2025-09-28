@@ -39,13 +39,14 @@ pure cosmetics
 <br>
 
 ## Working with modpack
-1. install mods using [this command reference](https://packwiz.infra.link/tutorials/creating/adding-mods/) or `packwiz --help`
+Update mods using `+update-mods.bat`
+Add mods using [this command reference](https://packwiz.infra.link/tutorials/creating/adding-mods/)
 
 To add configs for the mods
 1. Create a test client ([guide](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)) and start the game.
-    1. run `packwiz serve` or use `+run server locally.bat` to get the server URL
+    1. use `+run-server-locally.bat` to get the server URL
 2. The mods will create their config files.
-3. Edit them either manually (`config` folder in the install directory), or in-game using mods like `mod-menu` (included in modpack).
+3. Edit them either using a text editor (configs are stored in `<client instance>\.minecraft\config\`), or in-game using `mod-menu` (included in modpack).
 4. Once configured, copy-paste the config files you *care about* into `<modpack>\config\`.
 
-Once done making changes, run `packwiz refresh` or use `+refresh.bat`
+Once done making changes, run `+refresh.bat`
