@@ -1,9 +1,16 @@
 made with [packwiz](https://packwiz.infra.link/)
 
 ## Mods list
-everything is *vanilla-friendly* and mostly client-side
+Everything is mostly *client-side*.
 
-QoL improvements that add/change functionality
+### mildly *game-breaking*
+1. [gravestone-mod](https://modrinth.com/mod/gravestone-mod) - save player items on death (creates a new block that exists until you pick up your items)
+
+
+
+### fully *vanilla-friendly*
+
+QoL improvements that add/change functionality to vanilla mechanics
 1. BetterF3
 2. client-tweaks - minor things like stop placing offhand torches with food in hand
 3. controlling - keybind search
@@ -38,11 +45,11 @@ pure cosmetics
 
 <br>
 
-## Working with modpack
-Update mods using `+update-mods.bat`
-Add mods using [this command reference](https://packwiz.infra.link/tutorials/creating/adding-mods/)
+## Working with the modpack
+Add mods using [this command reference](https://packwiz.infra.link/tutorials/creating/adding-mods/).  
+Update mods using `+update-mods.bat`.  
 
-To add configs for the mods
+To add mod configs:  
 1. Create a test client ([guide](https://packwiz.infra.link/tutorials/installing/packwiz-installer/)) and start the game.
     1. use `+run-server-locally.bat` to get the server URL
 2. The mods will create their config files.
