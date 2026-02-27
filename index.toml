@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-health-bar.pw.toml"
-hash = "f25ea4cc02ce9787049d0abc6b5890660d564131fb86fedf3a5d299aa922c78c"
+hash = "d3fc274f78353c4e4dd08200e187b3865bb96caf9f3e70ef2d11851d1ab13ab6"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "160de05fb1dc57d5e57c74692105671174a501a0c2f9287bcf08b1719b5b27a5"
+hash = "66ea4c61958b69516e382393c0da4a3f44662f13f16dd412f71cbb6927e56142"
 metafile = true
 
 [[files]]
