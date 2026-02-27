@@ -7,6 +7,8 @@ url = "https://cdn.modrinth.com/data/mUkrhMZ1/versions/C3FW4M0e/simple-health-ba
 hash-format = "sha512"
 hash = "33f5bd350d5ea5e3238297e408898eeb8117d08998799dffc4809aa5798b5c85b8316fa6882ada39a78e0087e12b4520cfe8a043cda7b047c8246a4f620b50d2"
 
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "mUkrhMZ1"

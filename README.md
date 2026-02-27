@@ -54,6 +54,6 @@ To add mod configs:
     1. use `+run-server-locally.bat` to get the server URL
 2. The mods will create their config files.
 3. Edit them either using a text editor (configs are stored in `<client instance>\.minecraft\config\`), or in-game using `mod-menu` (included in modpack).
-4. Once configured, copy-paste the config files you *care about* into `<modpack>\config\`.
+4. Once configured, copy-paste the config files you *want to be globally configured for all players* into `<modpack>\config\`.
 
 Once done making changes, run `+refresh.bat`

@@ -7,6 +7,8 @@ url = "https://cdn.modrinth.com/data/HtGckJVc/versions/tSjRCpID/stack-to-nearby-
 hash-format = "sha512"
 hash = "4ca14d3f7ac421a59d12bf80109ca5cafa165ad70188ac694a83a3bd76989c6b45cbf14dfc41e963762982b303ff84668ad63f42b5c2632724f994afa4aefd4c"
 
+optional = true
+
 [update]
 [update.modrinth]
 mod-id = "HtGckJVc"
