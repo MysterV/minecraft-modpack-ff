@@ -15,5 +15,6 @@ mod-id = "k2ZPuTBm"
 version = "KKJozde4"
 
 [option]
+optional = true
 description = "Essential - make playing with friends easier"
 default = true

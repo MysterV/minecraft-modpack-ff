@@ -15,5 +15,6 @@ mod-id = "YL57xq9U"
 version = "Rhzf61g1"
 
 [option]
+optional = true
 description = "Iris shaders"
 default = true
