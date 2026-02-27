@@ -3,22 +3,27 @@ hash-format = "sha256"
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "0b6ed0c31863f10062544e2e4fcff420c35e014eb384dfeb19531b262d0e320b"
+preserve = true
 
 [[files]]
 file = "config/betterf3.json"
 hash = "21f56bfb3b6c06b641c0d3ab655080e41a305e615e833ce21ae3b4450f769710"
+preserve = true
 
 [[files]]
 file = "config/blur.json"
 hash = "cbd8f0e2118eee3f48a752631fdef505d48652869b6271c32ba586750888b699"
+preserve = true
 
 [[files]]
 file = "config/clienttweaks-common.toml"
 hash = "2ab2bb05a40eff7174bffc9f80347dae3ce99a4516a2a5ebef23e99eebd5ed30"
+preserve = true
 
 [[files]]
 file = "config/zoomify.json"
 hash = "1864722f354fba96744e0b4298453cb5fa396930a3e8fd60a58ea9f117641438"
+preserve = true
 
 [[files]]
 file = "icon.png"
@@ -46,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "34f57198f49251aa184ff63f1a875dd7287df5cf852be074073b19e680a787a1"
+hash = "c5b561f9787af258d983eb5ec00962ea2f93685c9201d5dc33dd8b4f7db0f1ec"
 metafile = true
 
 [[files]]
@@ -76,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "52df46d6896f9218981922b751c300ee13ecbf897184bbb207e494b71dcd17f9"
+hash = "9cc8a1fc8772e768a9199f7d428caa62e14f303cf598a07a5b40db12ebeeac5c"
 metafile = true
 
 [[files]]
@@ -96,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8d40436970d9adcfe3c0b72c9f0cd1af217948469b091b0f07ca3df187ce2e61"
+hash = "a488ada635cbf94242bf4bfad83016001ec32856ddafb6c8060e03af2c2f25db"
 metafile = true
 
 [[files]]
@@ -146,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-health-bar.pw.toml"
-hash = "d3fc274f78353c4e4dd08200e187b3865bb96caf9f3e70ef2d11851d1ab13ab6"
+hash = "db08b112680e555555c7fdbb3c6b68a809fe1b0c6c28b8c499182da18ecda543"
 metafile = true
 
 [[files]]

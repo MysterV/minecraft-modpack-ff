@@ -13,3 +13,7 @@ optional = true
 [update.modrinth]
 mod-id = "mUkrhMZ1"
 version = "C3FW4M0e"
+
+[option]
+description = "Replace health hearts with a neat healthbar"
+default = true
