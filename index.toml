@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "c0c8a9cb91627adc152902a62ee6eb3653148f9f27444f85c9f7124e18eff2d7"
+hash = "f7e48c22ee79eb22ebb4032bda67a7404f918dc8cadad68d1883c9d90df24735"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "31b02b25a0783c06bd1485c653d3bd3c65602aa698ff073f1b6cfe9a2227a690"
+hash = "95de6e549b657b5574e462007f3865b4cbd34d502849d07ead956e6678ad7dc2"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-health-bar.pw.toml"
-hash = "aa01e3d0bd0f0b925909d1a26ccd5084e9b65f0cd75bd5096a1eeec364bac714"
+hash = "935f1c37348058b933b5fcee00771fb6986e184e318bd47331b92aafa8e036cd"
 metafile = true
 
 [[files]]
