@@ -16,5 +16,5 @@ version = "KKJozde4"
 
 [option]
 optional = true
-description = "Essential - make playing with friends easier"
+description = "Make playing with friends easier"
 default = true

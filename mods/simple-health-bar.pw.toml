@@ -16,5 +16,5 @@ version = "C3FW4M0e"
 
 [option]
 optional = true
-description = "Replace health hearts with a neat healthbar"
+description = "Replace health hearts in hotbar with a neat healthbar"
 default = true

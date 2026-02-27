@@ -16,5 +16,5 @@ version = "Rhzf61g1"
 
 [option]
 optional = true
-description = "Iris shaders"
+description = "Enable shaders"
 default = true
